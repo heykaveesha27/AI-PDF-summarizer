@@ -1,0 +1,13 @@
+#API Keys and Secrets
+
+.env
+
+# Python caches and virtual environments
+--pycache--/
+*.pyc
+.venv/
+venv/
+
+# Project-specified folders
+source_pdfs/
+summary_notes/
